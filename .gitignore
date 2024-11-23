@@ -73,3 +73,6 @@ pytest-debug.log
 # apps migrations
 users/migrations
 solver/migrations
+
+#DataBase
+init.sql
