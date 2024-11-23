@@ -24,9 +24,6 @@ __pycache__/
 *.bak
 *.swp
 
-# Environment variables
-.env
-
 # VSCode settings
 .vscode/
 
@@ -73,6 +70,3 @@ pytest-debug.log
 # apps migrations
 users/migrations
 solver/migrations
-
-#DataBase
-init.sql
